@@ -1,0 +1,11 @@
+﻿/build/
+/WebRoot/index.html
+/.classpath
+/bin/
+/classes
+/.settings
+/WebContent
+/.idea
+/out
+/web_MediaCenter.iml
+*.iml
