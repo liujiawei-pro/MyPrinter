@@ -9,3 +9,9 @@
 /out
 /web_MediaCenter.iml
 *.iml
+/src/
+**/target/*
+**/target
+.idea
+
+/target
